@@ -28,7 +28,7 @@ List any links to your presentation or any related visuals you want to share.
 
 #### Next Steps
 
-What do you need to do next to turn this prototype into a working solution?
+First we will design and create the Smart Contract and deploy it to Celo Testnet, then we will build the DApps (Web App and Mobile App) to interact with the Smart Contract.
 
 #### License
 
